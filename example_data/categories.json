@@ -1,0 +1,38 @@
+{
+  "36b68d3d-0099-4874-a728-70d4e61ffbcf": {
+    "id": "36b68d3d-0099-4874-a728-70d4e61ffbcf",
+    "name": "Technology",
+    "description": "Tech-related entries",
+    "parent_id": null
+  },
+  "814ce2fc-1f7d-44fa-bbda-5350a044eb76": {
+    "id": "814ce2fc-1f7d-44fa-bbda-5350a044eb76",
+    "name": "Personal",
+    "description": "Personal notes and thoughts",
+    "parent_id": null
+  },
+  "fddc82a7-f459-4a47-83fc-8b500364a282": {
+    "id": "fddc82a7-f459-4a47-83fc-8b500364a282",
+    "name": "Technology",
+    "description": "Tech-related entries",
+    "parent_id": null
+  },
+  "1472faa9-e422-4891-8307-45d522fd2991": {
+    "id": "1472faa9-e422-4891-8307-45d522fd2991",
+    "name": "Personal",
+    "description": "Personal notes and thoughts",
+    "parent_id": null
+  },
+  "13ae5875-488d-47a8-bd25-a79c295e46df": {
+    "id": "13ae5875-488d-47a8-bd25-a79c295e46df",
+    "name": "Technology",
+    "description": "Tech-related entries",
+    "parent_id": null
+  },
+  "f858ed09-e6dc-45ca-b699-9bb7d56dc500": {
+    "id": "f858ed09-e6dc-45ca-b699-9bb7d56dc500",
+    "name": "Personal",
+    "description": "Personal notes and thoughts",
+    "parent_id": null
+  }
+}

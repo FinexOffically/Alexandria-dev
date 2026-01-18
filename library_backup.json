@@ -1,0 +1,122 @@
+{
+  "entries": [
+    {
+      "id": "efe5e35f-f93a-4dfa-b552-91addaab06cd",
+      "title": "Python Best Practices",
+      "content": "Always follow PEP 8 guidelines. Use meaningful variable names...",
+      "category_id": "36b68d3d-0099-4874-a728-70d4e61ffbcf",
+      "tags": [
+        {
+          "id": "4795f604-53d7-4b46-9f0c-bd24a44404c2",
+          "name": "Python",
+          "color": null
+        },
+        {
+          "id": "b2c493e5-073c-4044-a272-0342e9c966f2",
+          "name": "Important",
+          "color": null
+        }
+      ],
+      "created_at": "2026-01-18T12:23:04.015117",
+      "updated_at": "2026-01-18T12:23:04.015128",
+      "author": "Alice",
+      "source": null,
+      "is_favorite": true,
+      "is_archived": true,
+      "metadata": {}
+    },
+    {
+      "id": "288ac1b9-6748-4517-b85c-256a25b499b6",
+      "title": "Morning Thoughts",
+      "content": "Today was productive. Finished the Alexandria project.",
+      "category_id": "814ce2fc-1f7d-44fa-bbda-5350a044eb76",
+      "tags": [],
+      "created_at": "2026-01-18T12:23:04.018392",
+      "updated_at": "2026-01-18T12:23:04.018408",
+      "author": "Alice",
+      "source": null,
+      "is_favorite": false,
+      "is_archived": false,
+      "metadata": {}
+    },
+    {
+      "id": "7f6f40d9-f159-4531-962d-28ab193af6d1",
+      "title": "Python Best Practices",
+      "content": "Always follow PEP 8 guidelines. Use meaningful variable names...",
+      "category_id": "fddc82a7-f459-4a47-83fc-8b500364a282",
+      "tags": [
+        {
+          "id": "6d9de006-c37d-4726-bb34-24fd5ae3e9f6",
+          "name": "Python",
+          "color": null
+        },
+        {
+          "id": "3f7fb3c1-87ec-43cb-a178-ac16247ac03c",
+          "name": "Important",
+          "color": null
+        }
+      ],
+      "created_at": "2026-01-18T12:23:14.143167",
+      "updated_at": "2026-01-18T12:23:14.143186",
+      "author": "Alice",
+      "source": null,
+      "is_favorite": false,
+      "is_archived": false,
+      "metadata": {}
+    },
+    {
+      "id": "ea35820a-f118-4de8-ac58-31028ae8b52f",
+      "title": "Morning Thoughts",
+      "content": "Today was productive. Finished the Alexandria project.",
+      "category_id": "1472faa9-e422-4891-8307-45d522fd2991",
+      "tags": [],
+      "created_at": "2026-01-18T12:23:14.157904",
+      "updated_at": "2026-01-18T12:23:14.157915",
+      "author": "Alice",
+      "source": null,
+      "is_favorite": false,
+      "is_archived": false,
+      "metadata": {}
+    },
+    {
+      "id": "6f3617af-a3a9-4353-a646-4676bdd6b398",
+      "title": "Python Best Practices",
+      "content": "Always follow PEP 8 guidelines. Use meaningful variable names...",
+      "category_id": "13ae5875-488d-47a8-bd25-a79c295e46df",
+      "tags": [
+        {
+          "id": "f9fe4bf9-1f71-4c5c-a5a4-6c621925b4df",
+          "name": "Python",
+          "color": null
+        },
+        {
+          "id": "01c3d54b-db5e-4493-b337-6c6343951842",
+          "name": "Important",
+          "color": null
+        }
+      ],
+      "created_at": "2026-01-18T12:26:09.447917",
+      "updated_at": "2026-01-18T12:26:09.447926",
+      "author": "Alice",
+      "source": null,
+      "is_favorite": false,
+      "is_archived": false,
+      "metadata": {}
+    },
+    {
+      "id": "afb4c658-010f-49d9-92ff-06c6c5af6b66",
+      "title": "Morning Thoughts",
+      "content": "Today was productive. Finished the Alexandria project.",
+      "category_id": "f858ed09-e6dc-45ca-b699-9bb7d56dc500",
+      "tags": [],
+      "created_at": "2026-01-18T12:26:09.451692",
+      "updated_at": "2026-01-18T12:26:09.451701",
+      "author": "Alice",
+      "source": null,
+      "is_favorite": false,
+      "is_archived": false,
+      "metadata": {}
+    }
+  ],
+  "exported_at": "2026-01-18T12:26:09.465020"
+}

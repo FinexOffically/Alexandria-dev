@@ -1,0 +1,19 @@
+# Alexandria - Knowledge Management System
+# Requirements for production and development
+
+# Core dependencies
+# (Alexandria uses only Python standard library for core functionality)
+
+# Optional dependencies
+paramiko>=2.7.0          # For SSH connection testing (optional)
+
+# Development dependencies
+pytest>=6.0.0            # Testing framework
+pytest-cov>=2.10.0       # Code coverage
+black>=20.8b1            # Code formatter
+flake8>=3.8.0            # Linter
+mypy>=0.910              # Type checker
+
+# Documentation
+sphinx>=3.5.0            # Documentation generator
+sphinx-rtd-theme>=0.5.0  # ReadTheDocs theme
