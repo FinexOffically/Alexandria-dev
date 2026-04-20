@@ -54,7 +54,7 @@ A powerful, feature-rich knowledge management and information organization syste
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Alexandria.git
+git clone https://github.com/FinexOffically/Alexandria.git
 cd Alexandria
 
 # Install dependencies (optional)
