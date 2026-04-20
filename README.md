@@ -4,7 +4,7 @@ A powerful, feature-rich knowledge management and information organization syste
 
 ![Version](https://img.shields.io/badge/version-0.5.1-blue)
 ![Status](https://img.shields.io/badge/status-Production%20Ready-green)
-![Python](https://img.shields.io/badge/python-3.6%2B-blue)
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Features
